@@ -14,4 +14,6 @@ python3 -m pip install tensorflow[and-cuda]
 
 run
 
+'''
 python Lenet_edgeTPU.py
+'''
